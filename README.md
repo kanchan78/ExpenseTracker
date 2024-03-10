@@ -60,7 +60,7 @@ java -jar expensetrackerapi-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev
 or
 
 ````
-To test the application import `src/main/resources/template/`  file on Postman App
+To test the application import `src/main/resources/templates/Expense Manager - REST API CRUD.postman_collection.json`  file on Postman App
 ````
 <!--- insomnia_collection.json
 ### Details
