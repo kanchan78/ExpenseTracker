@@ -308,3 +308,5 @@ By default, the API will be available at [http://localhost:9999](http://localhos
 
 * Swagger (development environment): [http://localhost:9999/swagger-ui/index.html](http://localhost:9999/swagger-ui/index.html)
  --->
+* Made with ❤ 
+* Don't forget to star it 🌟
