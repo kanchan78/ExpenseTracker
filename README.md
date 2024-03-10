@@ -19,6 +19,10 @@ This API provides HTTP endpoint's and tools for the following:
    * By Name : `GET/expenses/name?name={name}`
    * By Category : `GET/expenses/category?category={category}`
    * By Date : `GET/expenses/date?startDate={startDate}&endDate={endDate}`
+* Pagination and Sorting
+
+## API Documentation in detail along with example
+    [Expense Tracker API](https://documenter.getpostman.com/view/4110434/2sA2xh3DME)
 
 <!---To test the application import `src/main/resources/insomnia_collection.json`  file on Insomnia App
 
