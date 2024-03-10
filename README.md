@@ -1,6 +1,9 @@
 # ExpenseTrackerApi
 A simple Expense tracker REST API
 
+![ScreenRecording2024-03-10at12 24 01PM-ezgif com-video-to-gif-converter](https://github.com/kanchan78/ExpenseTracker/assets/65346420/d1ccd485-3510-468f-a54c-27ef70057dad)
+
+
 ## About the API
 
 An API for expense management. This project is built with Java, Spring Boot. 
