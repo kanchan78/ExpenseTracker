@@ -21,11 +21,48 @@ This API provides HTTP endpoint's and tools for the following:
    * By Date : `GET/expenses/date?startDate={startDate}&endDate={endDate}`
 * Pagination and Sorting
 
-## API Documentation in detail along with example
-    [Expense Tracker API](https://documenter.getpostman.com/view/4110434/2sA2xh3DME)
 
-<!---To test the application import `src/main/resources/insomnia_collection.json`  file on Insomnia App
+<a href="https://documenter.getpostman.com/view/4110434/2sA2xh3DME">Expense Tracker API Documentation</a>
 
+### Technologies used
+
+This project was developed with:
+
+* Java 17
+* Spring Boot 3.2.2
+* Maven
+* Mysql
+
+### Compile and Package
+
+The API also was developed to run with an `jar`. In order to generate this `jar`, you should run:
+
+```bash
+mvn package
+```
+
+This command will clean, compile and generate a `jar` at target directory, e.g. `expensetrackerapi-0.0.1-SNAPSHOT.jar`
+
+### Execution
+
+This project uses **Mysql database**.
+* Create databse`Create database expensetracker`.
+* Run Spring boot app it will automatically create table
+
+### Run
+
+In order to run the API, run the jar as following:
+
+```bash
+java -jar expensetrackerapi-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev
+```
+    
+or
+
+````
+To test the application import `src/main/resources/template/`  file on Postman App
+````
+<!--- insomnia_collection.json
 ### Details
 
 `POST/products`
