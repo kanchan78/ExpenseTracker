@@ -1,8 +1,7 @@
 # ExpenseTrackerApi
 A simple Expense tracker REST API
 
-![ScreenRecording2024-03-10at12 24 01PM-ezgif com-video-to-gif-converter](https://github.com/kanchan78/ExpenseTracker/assets/65346420/d1ccd485-3510-468f-a54c-27ef70057dad)
-
+https://github.com/kanchan78/ExpenseTracker/assets/65346420/8f85959c-068e-470e-a0bc-87dca8b0784f
 
 ## About the API
 
